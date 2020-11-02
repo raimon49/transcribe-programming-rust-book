@@ -1,0 +1,15 @@
+[submodule "ch02/rust-hello"]
+	path = ch02/rust-hello
+	url = https://github.com/raimon49/rust-hello
+[submodule "ch02/rust-type-study"]
+	path = ch02/rust-type-study
+	url = https://github.com/raimon49/rust-type-study
+[submodule "rust-web-server-study"]
+	path = rust-web-server-study
+	url = https://github.com/raimon49/rust-web-server-study
+[submodule "ch02/rust-web-server-study"]
+	path = ch02/rust-web-server-study
+	url = https://github.com/raimon49/rust-web-server-study
+[submodule "ch02/rust-parallel-mandelbrot-study"]
+	path = ch02/rust-parallel-mandelbrot-study
+	url = https://github.com/raimon49/rust-parallel-mandelbrot-study
