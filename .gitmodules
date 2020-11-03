@@ -13,3 +13,9 @@
 [submodule "ch02/rust-parallel-mandelbrot-study"]
 	path = ch02/rust-parallel-mandelbrot-study
 	url = https://github.com/raimon49/rust-parallel-mandelbrot-study
+[submodule "ch03/rust-type-study"]
+	path = ch03/rust-type-study
+	url = https://github.com/raimon49/rust-type-study.git
+[submodule "ch04/rust-ownership-study"]
+	path = ch04/rust-ownership-study
+	url = https://github.com/raimon49/rust-ownership-study.git
