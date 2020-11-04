@@ -19,3 +19,6 @@
 [submodule "ch04/rust-ownership-study"]
 	path = ch04/rust-ownership-study
 	url = https://github.com/raimon49/rust-ownership-study.git
+[submodule "ch05/rust-reference-study"]
+	path = ch05/rust-reference-study
+	url = https://github.com/raimon49/rust-reference-study.git
