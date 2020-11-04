@@ -22,3 +22,6 @@
 [submodule "ch05/rust-reference-study"]
 	path = ch05/rust-reference-study
 	url = https://github.com/raimon49/rust-reference-study.git
+[submodule "ch06/rust-expression-study"]
+	path = ch06/rust-expression-study
+	url = https://github.com/raimon49/rust-expression-study.git
