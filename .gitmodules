@@ -28,3 +28,6 @@
 [submodule "ch07/rust-error-study"]
 	path = ch07/rust-error-study
 	url = https://github.com/raimon49/rust-error-study.git
+[submodule "ch08/rust-lib-study"]
+	path = ch08/rust-lib-study
+	url = https://github.com/raimon49/rust-lib-study.git
