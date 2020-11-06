@@ -31,3 +31,6 @@
 [submodule "ch08/rust-lib-study"]
 	path = ch08/rust-lib-study
 	url = https://github.com/raimon49/rust-lib-study.git
+[submodule "ch09/rust-struct-study"]
+	path = ch09/rust-struct-study
+	url = https://github.com/raimon49/rust-struct-study.git
