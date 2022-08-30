@@ -34,3 +34,6 @@
 [submodule "ch09/rust-struct-study"]
 	path = ch09/rust-struct-study
 	url = https://github.com/raimon49/rust-struct-study.git
+[submodule "ch10/rust-enum-study"]
+	path = ch10/rust-enum-study
+	url = https://github.com/raimon49/rust-enum-study.git
