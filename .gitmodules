@@ -43,3 +43,6 @@
 [submodule "ch12/rust-operator-overload-study"]
 	path = ch12/rust-operator-overload-study
 	url = https://github.com/raimon49/rust-operator-overload-study.git
+[submodule "ch13/rust-utility-trait-study"]
+	path = ch13/rust-utility-trait-study
+	url = https://github.com/raimon49/rust-utility-trait-study.git
