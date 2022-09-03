@@ -46,3 +46,6 @@
 [submodule "ch13/rust-utility-trait-study"]
 	path = ch13/rust-utility-trait-study
 	url = https://github.com/raimon49/rust-utility-trait-study.git
+[submodule "ch14/rust-closure-study"]
+	path = ch14/rust-closure-study
+	url = https://github.com/raimon49/rust-closure-study.git
