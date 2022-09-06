@@ -55,3 +55,6 @@
 [submodule "ch16/rust-collection-study"]
 	path = ch16/rust-collection-study
 	url = https://github.com/raimon49/rust-collection-study.git
+[submodule "ch17/rust-string-and-text-study"]
+	path = ch17/rust-string-and-text-study
+	url = https://github.com/raimon49/rust-string-and-text-study.git
