@@ -58,3 +58,6 @@
 [submodule "ch17/rust-string-and-text-study"]
 	path = ch17/rust-string-and-text-study
 	url = https://github.com/raimon49/rust-string-and-text-study.git
+[submodule "ch18/rust-io-study"]
+	path = ch18/rust-io-study
+	url = https://github.com/raimon49/rust-io-study.git
