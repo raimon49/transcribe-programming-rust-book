@@ -61,3 +61,6 @@
 [submodule "ch18/rust-io-study"]
 	path = ch18/rust-io-study
 	url = https://github.com/raimon49/rust-io-study.git
+[submodule "ch19/rust-parallel-mandelbrot-rewrite-study"]
+	path = ch19/rust-parallel-mandelbrot-rewrite-study
+	url = https://github.com/raimon49/rust-parallel-mandelbrot-rewrite-study.git
