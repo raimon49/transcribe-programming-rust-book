@@ -67,3 +67,6 @@
 [submodule "ch20/rust-macro-study"]
 	path = ch20/rust-macro-study
 	url = https://github.com/raimon49/rust-macro-study.git
+[submodule "ch21/rust-macro-study"]
+	path = ch21/rust-macro-study
+	url = https://github.com/raimon49/rust-unsafe-study.git
